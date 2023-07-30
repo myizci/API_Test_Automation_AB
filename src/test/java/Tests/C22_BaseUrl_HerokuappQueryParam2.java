@@ -10,10 +10,10 @@ import static io.restassured.RestAssured.given;
 public class C22_BaseUrl_HerokuappQueryParam2 extends BaseUrlHerokuapp {
 
     /*
-https://restful-booker.herokuapp.com/booking
+        https://restful-booker.herokuapp.com/booking
 
-Get firstname=Susan lastname=Ericson
-Validate status 200, at least one "Susan Ericson"
+        Get firstname=Susan lastname=Ericson
+        Validate status 200, at least one "Susan Ericson"
 
      */
 
